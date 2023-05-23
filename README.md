@@ -4,6 +4,9 @@ Short description or tagline for your project.
 
 [![GitHub stars](https://img.shields.io/github/stars/neeraj542/Typing-Test-JS-App.svg?style=social)](https://github.com/neeraj542/Typing-Test-JS-App/stargazers)
 
+![image](https://github.com/neeraj542/Typing-Test-JS-App/assets/114648043/df6241ac-3bc2-453c-8784-c73018202f5e)
+
+
 ## Table of Contents
 
 - [Project Description](#project-description)
